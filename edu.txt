@@ -134,4 +134,19 @@ essentially
 digest
 destructuring
 concurrency
+deter
+primitive
+fragment
+inline concisely
+sibling component
+refactoring
+curly braces
+essential
+gracefully
+properly
+anchor
+analogy
+concisely
+
+
 
